@@ -31,11 +31,3 @@ pip install beautifulsoup4
 ## Contributing
 
 If you have any suggestions or improvements, feel free to submit a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This version of the README omits the "Usage" section while retaining key information about the project.
